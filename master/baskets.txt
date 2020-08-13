@@ -1,0 +1,10 @@
+Beer, Peanuts, Candy, Bread
+Beer, Peanuts, Bread
+Washing Powder, Peanuts, Cheese, Bread, Candy, Beer
+Washing Powder
+Cheese, Bread, Peanuts, Candy
+Bread, Peanuts, Candy, Beer
+Cheese, Bread
+Peanuts, Washing Powder, Bread, Beer
+Beer, Cheese, Bread
+Cheese, Peanuts, Beer, Bread, Candy
