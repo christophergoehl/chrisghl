@@ -1,4 +1,4 @@
-from master.apr_lib import *
+from libs.apr_lib import *
 
 def create_baskets(file):
     file = open(file, "r")
@@ -14,8 +14,8 @@ def create_baskets(file):
 
 create_baskets("baskets.txt")
 for i in allset:
+    print(i.name)
     print(i.bsk)
-
 
 
 print(allset)
